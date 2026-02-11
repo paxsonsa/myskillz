@@ -1,0 +1,8 @@
+{
+  "name": "paxdev",
+  "description": "Development workflow plugin with research, planning, and discovery commands",
+  "version": "1.0.2",
+  "author": {
+    "name": "apaxson"
+  }
+}

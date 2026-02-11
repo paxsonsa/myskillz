@@ -1,0 +1,13 @@
+{
+  "name": "myskillz",
+  "owner": {
+    "name": "paxsonsa"
+  },
+  "plugins": [
+    {
+      "name": "paxdev",
+      "source": "./paxdev",
+      "description": "Development workflow plugin with research, planning, and discovery commands"
+    }
+  ]
+}
